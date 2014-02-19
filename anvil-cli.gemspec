@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "progress",    "~> 2.4.0"
   gem.add_dependency "rest-client", "~> 1.6.7"
-  gem.add_dependency "thor",        "~> 0.15.2"
+  gem.add_dependency "thor",        "~> 0.18.1"
 end
